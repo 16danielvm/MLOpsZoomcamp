@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/daniel/Documents/Universidad/Cursos/MLOpsZoomcamp/02_experiment-tracking/mlflow-examples/mlruns/468151240674076929/7ce977a750fa415db5ffe4b29b618864/artifacts
+end_time: 1717282606392
+entry_point_name: ''
+experiment_id: '468151240674076929'
+lifecycle_stage: active
+run_id: 7ce977a750fa415db5ffe4b29b618864
+run_name: luxuriant-kite-930
+run_uuid: 7ce977a750fa415db5ffe4b29b618864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717282593725
+status: 3
+tags: []
+user_id: daniel

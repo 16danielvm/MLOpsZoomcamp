@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/daniel/Documents/Universidad/Cursos/MLOpsZoomcamp/02_experiment-tracking/mlflow-examples/mlruns/468151240674076929
+creation_time: 1717282593130
+experiment_id: '468151240674076929'
+last_update_time: 1717282593130
+lifecycle_stage: active
+name: my-experiment-1
