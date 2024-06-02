@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/daniel/Documents/Universidad/Cursos/MLOpsZoomcamp/02_experiment-tracking/homework/mlruns/0/6edc9cac2fa448ecafa5062f500f4412/artifacts
+end_time: 1717286718886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6edc9cac2fa448ecafa5062f500f4412
+run_name: redolent-newt-873
+run_uuid: 6edc9cac2fa448ecafa5062f500f4412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717286687708
+status: 3
+tags: []
+user_id: daniel
